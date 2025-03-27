@@ -6,13 +6,13 @@
   <img alt="Scrapeless" src="images/scrapeless-light.png">
 </picture>
 <h4 align="center">
-  <b><a href="https://app.scrapeless.com/passport/login">Get Started</a></b>
+  <b><a href="https://app.scrapeless.com/passport/login?utm_source=github&utm_medium=banner&utm_campaign=official">Get Started</a></b>
   •
-  <a href="https://docs.scrapeless.com/en/overview/">Docs</a>
+  <a href="https://docs.scrapeless.com/en/overview/?utm_source=github&utm_medium=banner&utm_campaign=official">Docs</a>
   •
   <a href="https://discord.com/invite/xBcTfGPjCQ">Community</a>
   •
-  <a href="https://www.scrapeless.com/en/?utm_source=github&utm_medium=banner&utm_campaign=official">Official Website</a>
+  <a href="https://www.scrapeless.com/en/?utm_source=github&utm_medium=banner&utm_campaign=official?utm_source=github&utm_medium=banner&utm_campaign=official">Official Website</a>
   •
   <a href="https://apidocs.scrapeless.com/">API Reference</a>
   </h4>
@@ -39,21 +39,21 @@ gain a competitive edge in the data-driven landscape.
 
 
 
-### [Scraping API](https://www.scrapeless.com/en/product/scraping-api) Use Cases
+### [Scraping API](https://www.scrapeless.com/en/product/scraping-api?utm_source=github&utm_medium=banner&utm_campaign=official) Use Cases
 
 - **Structured Data Access**: Ideal for datasets like product listings or user reviews in a structured format.
 - **High Efficiency and Accuracy**: Precise data extraction without dealing with unstructured content.
 - **Integration with Existing Systems**: Seamless integration with software or databases for automated workflows.
 - **Reduced Development Time**: Avoid custom scraping development; the API handles complexity.
 
-### [Scraping Browser](https://www.scrapeless.com/en/product/headless-browser) Use Cases
+### [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser?utm_source=github&utm_medium=banner&utm_campaign=official) Use Cases
 
 - **JavaScript-Intensive Websites**: Perfect for sites relying heavily on JavaScript for content rendering.
 - **Dynamic Content Handling**: Captures interactive elements like dropdowns, forms, or infinite scrolling.
 - **Complex Navigation**: Navigates multi-step processes or complex website paths.
 - **Testing and Automation**: Simulates real user interactions for automated testing.
 
-### [Web Unlocker](https://www.scrapeless.com/en/product/web-unlocker) Use Cases
+### [Web Unlocker](https://www.scrapeless.com/en/product/web-unlocker?utm_source=github&utm_medium=banner&utm_campaign=official) Use Cases
 
 - **High-Frequency Data Extraction**: Frequent website visits for real-time data, such as financial market updates or
   news.
@@ -61,12 +61,12 @@ gain a competitive edge in the data-driven landscape.
 - **Bypassing Access Restrictions**: Overcomes IP bans and restrictions on scraping-sensitive websites.
 - **Rapid Adaptation to Changes**: Quickly adjusts to frequent changes in anti-scraping measures.
 
-### [Proxies](https://www.scrapeless.com/en/product/rotate-proxy) Use Cases
+### [Proxies](https://app.scrapeless.com/dashboard/products/proxy/channel-list?utm_source=github&utm_medium=banner&utm_campaign=official) Use Cases
 
 - Access 80M+ reliable residential and IPv6 IPs with HTTPS and SOCKS5 support, spanning 195+ countries. Use high-quality, rotating proxies to scrape top platforms while maintaining anonymity and avoiding IP bans. 
 - Effortlessly bypass geo-restrictions and ensure seamless global data extraction.
 
-### [Captcha Solver](https://www.scrapeless.com/en/product/captcha-solver) Use Cases
+### [Captcha Solver](https://app.scrapeless.com/dashboard/products/captcha?utm_source=github&utm_medium=banner&utm_campaign=official) Use Cases
 
 - Automatically resolves CAPTCHAs (e.g., reCAPTCHA, Cloudflare) to ensure uninterrupted scraping.  
 
